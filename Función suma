@@ -1,0 +1,16 @@
+package FuncSuma;
+
+public class main {
+	
+	public static void main(String[] args) {
+    int param1 = 7; //crear parametros
+    int param2 = 8;
+    int param3 = 5;
+    
+    int suma = param1 +param2+param3; //crear función suma
+    
+    System.out.println(suma); //imprimir función suma
+    
+}
+
+}
